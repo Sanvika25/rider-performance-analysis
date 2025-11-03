@@ -1,0 +1,4 @@
+stage_class,count,mean,median,std,min,max
+flat,1104,11.79,0.0,33.22,0,272
+hills,1472,12.52,0.0,36.13,0,274
+mount,920,12.88,0.0,39.91,0,304

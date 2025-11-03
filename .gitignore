@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+output/plots/*.html
+output/quick_report.pdf
+output/logs/
+file_structure.txt
+*.pyc

@@ -1,0 +1,13 @@
+stage_class,rider_class,count,mean,median,std,iqr
+flat,All Rounder,102,15.441,8.0,28.282,19.25
+flat,Climber,138,5.094,1.5,6.23,8.75
+flat,Sprinter,174,38.977,2.5,63.588,50.0
+flat,Unclassed,690,5.741,0.0,19.801,3.75
+hills,All Rounder,136,35.787,12.5,57.459,41.5
+hills,Climber,184,21.668,7.0,45.984,16.5
+hills,Sprinter,232,5.203,0.0,21.951,2.0
+hills,Unclassed,920,9.097,0.0,30.663,3.0
+mount,All Rounder,85,67.424,17.0,88.956,99.0
+mount,Climber,115,35.861,12.0,57.02,36.0
+mount,Sprinter,145,2.041,0.0,5.887,0.0
+mount,Unclassed,575,2.951,0.0,7.906,0.0

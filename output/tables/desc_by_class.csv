@@ -1,0 +1,5 @@
+rider_class,count,mean,median,std,iqr,min,max
+All Rounder,323,37.687,12.0,63.962,39.5,0,304
+Climber,437,20.169,6.0,43.447,16.0,0,269
+Sprinter,551,15.036,0.0,41.832,4.0,0,272
+Unclassed,2185,6.42,0.0,23.283,2.0,0,260

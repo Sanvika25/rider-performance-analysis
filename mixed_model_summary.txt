@@ -1,0 +1,25 @@
+                              Mixed Linear Model Regression Results
+==================================================================================================
+Model:                           MixedLM              Dependent Variable:              points     
+No. Observations:                3496                 Method:                          ML         
+No. Groups:                      184                  Scale:                           912.1373   
+Min. group size:                 19                   Log-Likelihood:                  -17031.0413
+Max. group size:                 19                   Converged:                       Yes        
+Mean group size:                 19.0                                                             
+--------------------------------------------------------------------------------------------------
+                                                     Coef.  Std.Err.    z    P>|z|  [0.025  0.975]
+--------------------------------------------------------------------------------------------------
+Intercept                                            15.441    4.646   3.324 0.001   6.336  24.546
+C(rider_class)[T.Climber]                           -10.347    6.126  -1.689 0.091 -22.355   1.661
+C(rider_class)[T.Sprinter]                           23.536    5.851   4.023 0.000  12.068  35.003
+C(rider_class)[T.Unclassed]                          -9.701    4.977  -1.949 0.051 -19.456   0.054
+C(stage_class)[T.hills]                              20.346    3.956   5.143 0.000  12.592  28.099
+C(stage_class)[T.mount]                              51.982    4.435  11.720 0.000  43.289  60.676
+C(rider_class)[T.Climber]:C(stage_class)[T.hills]    -3.771    5.217  -0.723 0.470 -13.996   6.454
+C(rider_class)[T.Sprinter]:C(stage_class)[T.hills]  -54.120    4.982 -10.862 0.000 -63.885 -44.355
+C(rider_class)[T.Unclassed]:C(stage_class)[T.hills] -16.989    4.238  -4.009 0.000 -25.296  -8.683
+C(rider_class)[T.Climber]:C(stage_class)[T.mount]   -21.216    5.849  -3.627 0.000 -32.680  -9.751
+C(rider_class)[T.Sprinter]:C(stage_class)[T.mount]  -88.918    5.586 -15.917 0.000 -99.867 -77.969
+C(rider_class)[T.Unclassed]:C(stage_class)[T.mount] -54.772    4.752 -11.526 0.000 -64.085 -45.458
+Group Var                                           214.869    0.932                              
+==================================================================================================

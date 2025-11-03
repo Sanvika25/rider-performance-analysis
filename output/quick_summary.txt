@@ -1,0 +1,13 @@
+Total observations: 3496
+Rider Classes: ['All Rounder', 'Sprinter', 'Climber', 'Unclassed']
+Stage Classes: ['flat', 'hills', 'mount']
+
+Descriptive Stats (Mean by Rider Class):
+  - All Rounder: mean=37.69, median=12.00, sd=63.96
+  - Climber: mean=20.17, median=6.00, sd=43.45
+  - Sprinter: mean=15.04, median=0.00, sd=41.83
+  - Unclassed: mean=6.42, median=0.00, sd=23.28
+
+See tables folder for full stats, effect sizes, and Dunn post-hoc results.
+See plots folder for violin, heatmap, and interaction visuals.
+Mixed Model Summary: output/logs/mixed_model_summary.txt
